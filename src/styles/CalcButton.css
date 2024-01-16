@@ -1,0 +1,48 @@
+.calc-button-count, .calc-span-count {
+  background-color: #fd8c5a;
+  border-radius: 50%;
+  text-align: center;
+  width: 35px;
+  height: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.calc-button-count:active {
+  background: #22b9ff;
+}
+
+.calc-button-count-0, .calc-span-count-0 {
+  background-color: #364a9c;
+  border-radius: 50%;
+  text-align: center;
+  width: 35px;
+  height: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.calc-div {
+  background: #364a9c;
+  color: #ffffff;
+  text-transform: uppercase;
+  width: 185px;
+  height: 185px;
+  margin: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-align: center;
+}
+
+.button-buttons-div {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.button-name-div {
+  margin: 0px 10px 10px 10px;
+}

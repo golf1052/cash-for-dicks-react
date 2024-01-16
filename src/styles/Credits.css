@@ -1,0 +1,14 @@
+.credits-div {
+  background-color: #383b42;
+  color: white;
+  padding: 10px 0px;
+  text-align: center;
+}
+
+.credits-link {
+  color: cornflowerblue;
+}
+
+.credits-link:visited {
+  color: mediumpurple;
+}

@@ -1,0 +1,17 @@
+.random-button {
+  background: #364a9c;
+  text-transform: uppercase;
+  width: 185px;
+  height: 185px;
+  margin: 5px;
+  font-family: 'Fira Mono', sans-serif;
+}
+
+.random-button:active {
+  background: #fd8c5a;
+}
+
+.random-question-marks {
+  font-size: xx-large;
+  margin-bottom: 10px;
+}

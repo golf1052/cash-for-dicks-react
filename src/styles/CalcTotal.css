@@ -1,0 +1,31 @@
+.calc-total {
+  width: 100%;
+  display: flex;
+}
+
+.total {
+  width: 67%;
+  background-color: black;
+  color: white;
+  font-size: x-large;
+  align-self: stretch;
+  vertical-align: middle;
+  display: flex;
+}
+
+.total-display {
+  align-self: center;
+  margin-left: 10px;
+}
+
+.clear-button { 
+  background: #fd8c5a;
+  width: 33%;
+  height: 50px;
+  font-size: larger;
+  text-transform: uppercase;
+}
+
+.clear-button:active {
+  background: #364a9c;
+}

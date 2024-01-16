@@ -1,0 +1,15 @@
+.calculator-div {
+  width: 67%;
+}
+
+.calc-flex {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+@media (max-width: 768px) {
+  .calculator-div {
+    width: 100%;
+  }
+}
