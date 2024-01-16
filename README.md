@@ -1,3 +1,7 @@
+# Cash for Dick's
+
+A recreation to tribute the [OG](https://web.archive.org/web/20160306155729/http://dicksinmymouth.com/).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
